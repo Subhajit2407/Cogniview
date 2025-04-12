@@ -9,5 +9,8 @@
     "dev": "cd confidence-boost-ai && npm run dev",
     "build": "cd confidence-boost-ai && npm run build",
     "preview": "cd confidence-boost-ai && npm run preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1"
   }
 } 

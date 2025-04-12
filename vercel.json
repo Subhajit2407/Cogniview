@@ -1,4 +1,5 @@
 {
+  "framework": "vite",
   "rewrites": [
     { "source": "/(.*)", "destination": "/confidence-boost-ai/$1" }
   ],
