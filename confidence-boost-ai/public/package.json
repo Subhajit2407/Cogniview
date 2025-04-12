@@ -1,0 +1,8 @@
+{
+  "name": "favicon-generator",
+  "version": "1.0.0",
+  "description": "Favicon generator for Cogniview",
+  "main": "generate-favicons.js",
+  "type": "module",
+  "private": true
+} 
