@@ -1,0 +1,10 @@
+{
+  "name": "cogniview",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd confidence-boost-ai && npm run dev",
+    "build": "cd confidence-boost-ai && npm run build",
+    "preview": "cd confidence-boost-ai && npm run preview"
+  }
+} 

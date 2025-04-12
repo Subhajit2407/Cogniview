@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd confidence-boost-ai && npm install && npm run build",
+  "outputDirectory": "confidence-boost-ai/dist",
+  "installCommand": "cd confidence-boost-ai && npm install",
+  "framework": "vite"
+} 
